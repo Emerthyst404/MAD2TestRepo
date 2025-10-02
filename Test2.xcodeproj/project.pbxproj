@@ -14,6 +14,9 @@
 		3F93394F2E8AC2BE00E6D7F4 /* Test2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F93394E2E8AC2BE00E6D7F4 /* Test2Tests.swift */; };
 		3F9339592E8AC2BE00E6D7F4 /* Test2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9339582E8AC2BE00E6D7F4 /* Test2UITests.swift */; };
 		3F93395B2E8AC2BE00E6D7F4 /* Test2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F93395A2E8AC2BE00E6D7F4 /* Test2UITestsLaunchTests.swift */; };
+		3F9339682E8E089300E6D7F4 /* PlantLibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9339672E8E089300E6D7F4 /* PlantLibraryView.swift */; };
+		3F93396A2E8E09E000E6D7F4 /* MyPlantsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9339692E8E09E000E6D7F4 /* MyPlantsView.swift */; };
+		3F93396C2E8E09FA00E6D7F4 /* CareGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F93396B2E8E09FA00E6D7F4 /* CareGuideView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +47,9 @@
 		3F9339542E8AC2BE00E6D7F4 /* Test2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Test2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F9339582E8AC2BE00E6D7F4 /* Test2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test2UITests.swift; sourceTree = "<group>"; };
 		3F93395A2E8AC2BE00E6D7F4 /* Test2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3F9339672E8E089300E6D7F4 /* PlantLibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantLibraryView.swift; sourceTree = "<group>"; };
+		3F9339692E8E09E000E6D7F4 /* MyPlantsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPlantsView.swift; sourceTree = "<group>"; };
+		3F93396B2E8E09FA00E6D7F4 /* CareGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CareGuideView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +104,9 @@
 				3F93393F2E8AC2BB00E6D7F4 /* ContentView.swift */,
 				3F9339412E8AC2BD00E6D7F4 /* Assets.xcassets */,
 				3F9339432E8AC2BD00E6D7F4 /* Preview Content */,
+				3F9339672E8E089300E6D7F4 /* PlantLibraryView.swift */,
+				3F9339692E8E09E000E6D7F4 /* MyPlantsView.swift */,
+				3F93396B2E8E09FA00E6D7F4 /* CareGuideView.swift */,
 			);
 			path = Test2;
 			sourceTree = "<group>";
@@ -257,8 +266,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F93396A2E8E09E000E6D7F4 /* MyPlantsView.swift in Sources */,
+				3F9339682E8E089300E6D7F4 /* PlantLibraryView.swift in Sources */,
 				3F9339402E8AC2BB00E6D7F4 /* ContentView.swift in Sources */,
 				3F93393E2E8AC2BB00E6D7F4 /* Test2App.swift in Sources */,
+				3F93396C2E8E09FA00E6D7F4 /* CareGuideView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

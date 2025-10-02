@@ -31,8 +31,9 @@ struct ContentView: View {
                 }
                 .padding(.top, 60)  // 60 pts of space above header
                 
-                // Spacer = pushes content apart
                 Spacer()
+                
+                
                 
                 //Navigation Buttons Section
                 VStack(spacing: 20) {  
@@ -61,8 +62,9 @@ struct ContentView: View {
     }
 }
 
-// Custom Menu Button 
-// a reusable button design 
+
+
+// Menu Button 
 struct MenuButton: View {
     
     let title: String   // button text 
