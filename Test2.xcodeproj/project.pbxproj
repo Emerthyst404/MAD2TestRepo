@@ -17,6 +17,7 @@
 		3F9339682E8E089300E6D7F4 /* PlantLibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9339672E8E089300E6D7F4 /* PlantLibraryView.swift */; };
 		3F93396A2E8E09E000E6D7F4 /* MyPlantsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9339692E8E09E000E6D7F4 /* MyPlantsView.swift */; };
 		3F93396C2E8E09FA00E6D7F4 /* CareGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F93396B2E8E09FA00E6D7F4 /* CareGuideView.swift */; };
+		3F93396E2E8F274A00E6D7F4 /* PlantData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F93396D2E8F274A00E6D7F4 /* PlantData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		3F9339672E8E089300E6D7F4 /* PlantLibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantLibraryView.swift; sourceTree = "<group>"; };
 		3F9339692E8E09E000E6D7F4 /* MyPlantsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPlantsView.swift; sourceTree = "<group>"; };
 		3F93396B2E8E09FA00E6D7F4 /* CareGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CareGuideView.swift; sourceTree = "<group>"; };
+		3F93396D2E8F274A00E6D7F4 /* PlantData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				3F9339672E8E089300E6D7F4 /* PlantLibraryView.swift */,
 				3F9339692E8E09E000E6D7F4 /* MyPlantsView.swift */,
 				3F93396B2E8E09FA00E6D7F4 /* CareGuideView.swift */,
+				3F93396D2E8F274A00E6D7F4 /* PlantData.swift */,
 			);
 			path = Test2;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 				3F93396A2E8E09E000E6D7F4 /* MyPlantsView.swift in Sources */,
 				3F9339682E8E089300E6D7F4 /* PlantLibraryView.swift in Sources */,
 				3F9339402E8AC2BB00E6D7F4 /* ContentView.swift in Sources */,
+				3F93396E2E8F274A00E6D7F4 /* PlantData.swift in Sources */,
 				3F93393E2E8AC2BB00E6D7F4 /* Test2App.swift in Sources */,
 				3F93396C2E8E09FA00E6D7F4 /* CareGuideView.swift in Sources */,
 			);
